@@ -5,8 +5,6 @@ yolov5を利用したマスク検知プログラム<br>
 ## 実行方法
 クライアント側<br>
 $python detect.py --source 0の実行<br>
-サーバ側<br>
-$python server.py
 ## システムの構成
 ### 認識部分
 detect.py内socket部分のipアドレス変更
