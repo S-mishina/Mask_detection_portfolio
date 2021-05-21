@@ -4,8 +4,6 @@ Yoloのデータを可視化する為のテストプログラム.<br>
 実行方法.
 一つ目のターミナルで,<br>
 $python server.py<br>
-二つ目のターミナルで<br>
-$python client.py<br>
 # データベースの構成
 databasename:mask<br>
 table:mask-ok-or-ng1<br>
